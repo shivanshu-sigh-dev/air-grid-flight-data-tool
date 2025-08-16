@@ -3,3 +3,5 @@
 commands.txt
 __pycache__
 *.pyc
+*.ps1
+*.log
